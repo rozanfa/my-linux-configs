@@ -1,0 +1,42 @@
+cookie: _fbp=fb.1.1655739814504.243790684; sp_dc=AQB4Bgs_g74WGv6n6bDC3Ktv9IxoNC_4JJEDn42WMx0DzAznfWOnABGqjUn5FRt7yTgRwlINBJBtv9KS6mP27D5QFS_XTQNuVIc7VkXBNcmT7u3IWhlM9Dfz0N5LQ_qUZ_qekBKKD1e9PsFqEk3ifs1QrVknRIbA; sp_key=f4db5b89-7f34-45e5-b5e9-9513ee3ab6a1; OptanonAlertBoxClosed=2022-06-20T15:44:51.594Z; sp_adid=588747f9-37d9-40b9-9bef-fadd89048cce; sp_t=9a1a7c7b675985f8ed47a26ea324a796; _gcl_au=1.1.1354786130.1655765013; sp_m=id; sp_last_utm={"utm_campaign":"your_account","utm_medium":"menu","utm_source":"spotify"}; _scid=83f399f1-07e9-475e-97b4-5671c9f84b33; _cs_c=0; _cs_id=ea5cd8a6-0aa0-a072-de8e-ebd0ec3c122d.1655893025.1.1655893025.1655893025.1.1690057025361; _sctr=1|1655830800000; sp_phash=8313cf8a7f665d2329f09837c68a3cd5c20661d7; sp_gaid=0088fc9c7c970cfe3c1fed1d76c2eea00be46e0b20c562193d595a; spot={"t":1655893026,"m":"id","p":null}; _ga_S35RN5WNT2=GS1.1.1655893025.1.0.1655893202.60; sp_landing=https://open.spotify.com/?sp_cid=9a1a7c7b675985f8ed47a26ea324a796&device=desktop; _ga_ZWG1NSHWD8=GS1.1.1659765669.9.0.1659765669.0; _ga=GA1.2.474609354.1655740520; _gid=GA1.2.210882595.1659765670; OptanonConsent=isIABGlobal=false&datestamp=Sat+Aug+06+2022+13:01:09+GMT+0700+(Western+Indonesia+Time)&version=6.26.0&hosts=&landingPath=NotLandingPage&groups=s00:1,f00:1,m00:1,t00:1,i00:1,f02:1,m02:1,t02:1&AwaitingReconsent=false&geolocation=ID;SS; sss=1; ki_t=1655739815693;1659765671389;1659765671389;4;18; ki_r=aHR0cHM6Ly9naXRodWIuY29tL3JhaXRvbm9iZXJ1L3NwdGxyeA==
+player: spotify
+timerInterval: 200
+updateInterval: 2000
+style:
+  hAlignment: left
+  before:
+    background: ""
+    foreground: "#8888dd"
+    bold: false
+    italic: false
+    undeline: false
+    strikethrough: false
+    blink: false
+    faint: false
+  current:
+    background: ""
+    foreground: "#bbbbff"
+    bold: true
+    italic: false
+    undeline: false
+    strikethrough: false
+    blink: false
+    faint: false
+  after:
+    background: ""
+    foreground: "#8888bb"
+    bold: false
+    italic: false
+    undeline: false
+    strikethrough: false
+    blink: false
+    faint: false
+pipe:
+  length: 0
+  overflow: word
+  ignoreErrors: true
+mpd:
+  address: 127.0.0.1:6600
+  password: ""
+mopidy:
+  address: 127.0.0.1:6680
